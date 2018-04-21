@@ -1,0 +1,89 @@
+
+/*Start of Navbar and footer styling*/
+
+
+.navbar{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#footer-logo{
+    height: 50px;
+    width:50px;
+    margin-bottom: 20px;
+}
+
+#footer-logo2{
+    height: 50px;
+    width:75px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.footer-content{
+    color: white;
+    padding: 20px;
+
+}
+
+#subscribe{
+    padding-top: 5px;
+}
+
+.btn-warning{
+    margin-top: 5px;
+}
+
+#footer{
+
+    margin-top: 100px;
+    background-color: rgb(52,58,64);
+
+}
+
+
+html {
+    height: 100% ;
+
+}
+body {
+    min-height: 100% ;
+
+}
+
+
+
+/*End of Navbar and footer styling*/
+
+
+
+/*  Start - Font for the entire html file */
+
+html *{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+/*  End - Font for the entire html file */
+
+/* Start - Upcoming Events */
+.container{
+    margin-top :100px;
+    background-color:rgb(225,225,225);
+
+}
+
+.card{
+    margin: 5%;
+}
+
+/* End Upcoming events */
+
+h2{
+    margin-top: 75px;
+    text-align: center;
+    padding-top: 25px;
+}
+.list-group{
+    padding: 10px;
+}

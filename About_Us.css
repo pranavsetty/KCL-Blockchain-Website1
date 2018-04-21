@@ -1,0 +1,93 @@
+
+/*Start of Navbar and footer styling*/
+
+
+.navbar{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#footer-logo{
+    height: 50px;
+    width:50px;
+    margin:auto;
+}
+
+#footer-logo2{
+    height: 50px;
+    width:75px;
+
+    margin:auto;
+
+}
+
+.footer-content{
+    color: white;
+    padding: 20px;
+
+}
+
+#subscribe{
+    padding-top: 5px;
+}
+
+.btn-warning{
+    margin-top: 5px;
+}
+
+#footer{
+
+    margin-top: 100px;
+    background-color: rgb(52,58,64);
+
+}
+
+
+html {
+    height: 100% ;
+
+}
+body {
+    min-height: 100% ;
+
+}
+/*End of Navbar and footer styling*/
+
+
+
+
+/*  Start - Font for the entire html file */
+html *{
+    font-family: 'Raleway', sans-serif;
+
+}
+/*  End - Font for the entire html file */
+
+
+/* Start - Container for the about us content */
+.container{
+    margin-top: 75px;
+    padding: 25px;
+    background-color:rgb(225,225,225);
+}
+
+/* Start - Container for the about us content */
+
+
+
+.team-content{
+    margin-top: 75px;
+    padding: 25px;
+    background-color: rgb(225,225,225);
+}
+
+h1{
+    margin-top: 75px;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+
