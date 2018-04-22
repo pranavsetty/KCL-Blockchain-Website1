@@ -6,14 +6,14 @@
 }
 
 #footer-logo {
-    height: 75px;
+    height: 65px;
     width: 70px;
     margin: auto;
 }
 
 #footer-logo2 {
-    height: 75px;
-    width: 120px;
+    height: 65px;
+    width: 100px;
 
     margin: auto;
 
@@ -118,7 +118,7 @@ h1 {
 }
 
 .carousel {
-    background-color: rgb(102, 102, 102);
+    background-color: rgb(72,61,139);
     margin-top: 60px;
     height: 500px;
     color: white;
@@ -152,15 +152,15 @@ h1 {
 }
 
 .fa-facebook-square{
-    font-size: 4em;
+    font-size: 2em;
 }
 
 .fa-linkedin{
-    font-size: 4em;
+    font-size: 2em;
 }
 
 .fa-twitter-square{
-    font-size: 4em;
+    font-size: 2em;
 }
 
 .card {
