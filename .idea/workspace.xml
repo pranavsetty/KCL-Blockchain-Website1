@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0af37aa2-8d84-4f7c-ad87-30db8dba9603" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/About_Us.css" afterPath="$PROJECT_DIR$/About_Us.css" />
-      <change beforePath="$PROJECT_DIR$/About_us.html" afterPath="$PROJECT_DIR$/About_us.html" />
-      <change beforePath="$PROJECT_DIR$/Article 1.html" afterPath="$PROJECT_DIR$/Article 1.html" />
-      <change beforePath="$PROJECT_DIR$/Article 10.html" afterPath="$PROJECT_DIR$/Article 10.html" />
-      <change beforePath="$PROJECT_DIR$/Article 11.html" afterPath="$PROJECT_DIR$/Article 11.html" />
-      <change beforePath="$PROJECT_DIR$/Article 12.html" afterPath="$PROJECT_DIR$/Article 12.html" />
-      <change beforePath="$PROJECT_DIR$/Article 2.html" afterPath="$PROJECT_DIR$/Article 2.html" />
-      <change beforePath="$PROJECT_DIR$/Article 3.html" afterPath="$PROJECT_DIR$/Article 3.html" />
-      <change beforePath="$PROJECT_DIR$/Article 4.html" afterPath="$PROJECT_DIR$/Article 4.html" />
-      <change beforePath="$PROJECT_DIR$/Article 5.html" afterPath="$PROJECT_DIR$/Article 5.html" />
-      <change beforePath="$PROJECT_DIR$/Article 6.html" afterPath="$PROJECT_DIR$/Article 6.html" />
-      <change beforePath="$PROJECT_DIR$/Article 7.html" afterPath="$PROJECT_DIR$/Article 7.html" />
-      <change beforePath="$PROJECT_DIR$/Article 8.html" afterPath="$PROJECT_DIR$/Article 8.html" />
-      <change beforePath="$PROJECT_DIR$/Article 9.html" afterPath="$PROJECT_DIR$/Article 9.html" />
-      <change beforePath="$PROJECT_DIR$/Articles.css" afterPath="$PROJECT_DIR$/Articles.css" />
-      <change beforePath="$PROJECT_DIR$/Blog.css" afterPath="$PROJECT_DIR$/Blog.css" />
-      <change beforePath="$PROJECT_DIR$/Blog.html" afterPath="$PROJECT_DIR$/Blog.html" />
-      <change beforePath="$PROJECT_DIR$/ContactUs.css" afterPath="$PROJECT_DIR$/ContactUs.css" />
-      <change beforePath="$PROJECT_DIR$/ContactUs.html" afterPath="$PROJECT_DIR$/ContactUs.html" />
-      <change beforePath="$PROJECT_DIR$/Events.css" afterPath="$PROJECT_DIR$/Events.css" />
       <change beforePath="$PROJECT_DIR$/Events.html" afterPath="$PROJECT_DIR$/Events.html" />
-      <change beforePath="$PROJECT_DIR$/Home.css" afterPath="$PROJECT_DIR$/Home.css" />
-      <change beforePath="$PROJECT_DIR$/Teams.css" afterPath="$PROJECT_DIR$/Teams.css" />
-      <change beforePath="$PROJECT_DIR$/Teams.html" afterPath="$PROJECT_DIR$/Teams.html" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -41,21 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="186" column="3" lean-forward="false" selection-start-line="186" selection-start-column="3" selection-end-line="186" selection-end-column="3" />
+            <state relative-caret-position="-1">
+              <caret line="140" column="0" lean-forward="true" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Events.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Events.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="96" column="20" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -64,7 +40,7 @@
       <file leaf-file-name="Home.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Home.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-809">
+            <state relative-caret-position="-1965">
               <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding />
             </state>
@@ -97,7 +73,6 @@
       <find>h1</find>
       <find>danger</find>
       <find>test</find>
-      <find>see</find>
       <find>rece</find>
       <find>events</find>
       <find>article</find>
@@ -114,8 +89,10 @@
       <find>slide</find>
       <find>h6</find>
       <find>active</find>
-      <find>more</find>
+      <find>see</find>
       <find>btn</find>
+      <find>more</find>
+      <find>even</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -155,10 +132,10 @@
         <option value="$PROJECT_DIR$/ContactUs.html" />
         <option value="$PROJECT_DIR$/Teams.html" />
         <option value="$PROJECT_DIR$/Teams.css" />
-        <option value="$PROJECT_DIR$/Events.html" />
         <option value="$PROJECT_DIR$/Events.css" />
         <option value="$PROJECT_DIR$/Home.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Events.html" />
       </list>
     </option>
   </component>
@@ -294,12 +271,12 @@
       <workItem from="1524349868660" duration="4000" />
       <workItem from="1524394968081" duration="10604000" />
       <workItem from="1524412655848" duration="2010000" />
-      <workItem from="1524775378620" duration="5616000" />
+      <workItem from="1524775378620" duration="6292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128698000" />
+    <option name="totallyTimeSpent" value="129374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="6" />
@@ -645,17 +622,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Home.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-809">
+        <state relative-caret-position="-1965">
           <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding />
         </state>
@@ -663,8 +632,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="186" column="3" lean-forward="false" selection-start-line="186" selection-start-column="3" selection-end-line="186" selection-end-column="3" />
+        <state relative-caret-position="-1">
+          <caret line="140" column="0" lean-forward="true" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="96" column="20" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
           <folding />
         </state>
       </provider>
