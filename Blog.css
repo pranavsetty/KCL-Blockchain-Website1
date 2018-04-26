@@ -1,88 +1,105 @@
-
 /*Start of Navbar and footer styling*/
 
-
-.navbar{
+.navbar {
     font-family: 'Raleway', sans-serif;
 
 }
 
-#footer-logo{
-    height: 50px;
-    width:50px;
-    margin:auto;
+#footer-logo {
+    height: 65px;
+    width: 70px;
+    margin: auto;
 }
 
-#footer-logo2{
-    height: 50px;
-    width:75px;
+#footer-logo2 {
+    height: 65px;
+    width: 100px;
 
-    margin:auto;
+    margin: auto;
 
 }
 
-.footer-content{
+.footer-content {
     color: white;
     padding: 20px;
 
 }
 
-#subscribe{
+#subscribe {
     padding-top: 5px;
 }
 
-.btn-warning{
-    margin-top: 5px;
+.btn {
+    margin-right: 3px;
+    margin-bottom: 3px;
 }
 
-#footer{
+#footer {
 
     margin-top: 100px;
-    background-color: rgb(52,58,64);
+    background-color: rgb(52, 58, 64);
 
 }
-.container-fluid{
-    background-color:rgb(52,58,64);
+
+.container-fluid {
+    background-color: rgb(52, 58, 64);
     margin-top: 10px;
 }
 
-
 html {
-    height: 100% ;
+    height: 100%;
 
 }
+
 body {
-    min-height: 100% ;
+    min-height: 100%;
 
 }
+
+h6{
+    padding: 5px;
+}
+
+.fa-facebook-square{
+    font-size: 2em;
+}
+
+.fa-linkedin{
+    font-size: 2em;
+}
+
+.fa-twitter-square{
+    font-size: 2em;
+}
+
+
 /*End of Navbar and footer styling*/
 
-
-
 /*  Start - Font for the entire html file */
-html *{
+html * {
     font-family: 'Raleway', sans-serif;
 
 }
+
 /*  End - Font for the entire html file */
 
 
 
-.container{
-    margin-top: 100px;
-    padding: 20px;
-    background-color:rgb(225,225,225);
-}
+
+
 
 .card{
     margin:10px;
+    padding: 25px;
 }
 
 .card-body{
     height: 175px;
 }
 
-.container-fluid{
-    background-color:rgb(52,58,64);
-    margin-top: 10px;
+.c-spacing{
+    background-color:rgb(225,225,225);
+    margin-top: 100px;
+    padding:70px;
+
 }
